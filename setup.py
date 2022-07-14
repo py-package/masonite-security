@@ -13,6 +13,8 @@ setup(
         "security",
         "security.config",
         "security.middlewares",
+        "security.migrations",
+        "security.models",
         "security.protectors",
         "security.providers",
     ],
