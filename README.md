@@ -24,6 +24,7 @@ Secure masonite apps from spamming Bots, IP's and SQL injections.
 - [x] Block Bots
 - [x] Throttle Requests
 - [ ] Block SQL Injections
+- [ ] Firewall
 
 ## Installation
 
