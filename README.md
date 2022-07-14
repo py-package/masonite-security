@@ -93,26 +93,13 @@ MAX_REQUESTS = 20 # Max requests per IP (default: 20)
 IP_BLOCK_DURATION = 60  # seconds (default: 60)
 
 # list of IP addresses to block (default: [])
-BLOCKED_IPS = []
+BLOCKED_IPS = [
+  #...
+]
 
 # list of Bot Agents to block
 BLOCKED_BOTS = [
-    "AhrefsBot",
-    "Alexibot",
-    "Baiduspider",
-    "BlackWidow",
-    "BLEXBot",
-    "dotbot",
-    "Jetbot",
-    "MJ12bot",
-    "Nutch",
-    "rogerbot",
-    "SemrushBot",
-    "SemrushBot-SA",
-    "Standford",
-    "SurveyBot",
-    "WebVac",
-    "serpstatbot",
+    #...
 ]
 # ...
 ```
